@@ -1,0 +1,8 @@
+train: C:\Users\m1314\Desktop\hnie 软工\day03\dataset\images\train
+val: C:\Users\m1314\Desktop\hnie 软工\day03\dataset\images\valid
+test: C:\Users\m1314\Desktop\hnie 软工\day03\dataset\images\test
+
+names:
+  0: ripe
+  1: half-ripe
+  2: raw
